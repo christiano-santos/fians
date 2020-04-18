@@ -13,4 +13,10 @@ footer p a{
     body{
         width: 420px;
     }
-}
+}/* 
+@media (min-width: 576px) and (max-width: 770px) {
+    div#capa{
+       display: hide;
+    
+    }
+ } */
